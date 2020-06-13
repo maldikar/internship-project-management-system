@@ -1,1 +1,1 @@
-# internship-project-management-system
+# workshop
